@@ -10,10 +10,7 @@ public class OnemliNotlar {
     * Matchers Class kullanarak doğrulama
       http://hamcrest.org/JavaHamcrest/javadoc/1.3/org/hamcrest/Matchers.html
 
-      Matchers.equalto(): Key-Value şeklinde girilen datanın, eşit olduğunu doğrulamak için kullanılır.
-      Matchers.hasSize(): Datanın size'ını doğrulamak için kullanılır.
-      Matchers.hasItem(): Girilen tek bir data'yı doğrulamak için kullanılır.
-      Matchers.hasItems(): Girilen birden fazla datayı doğrulamak için kullanılır.
+
 
     * JUnit ve TestNG Assert'leri kullanılarak doğrulama
 
